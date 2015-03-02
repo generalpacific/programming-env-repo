@@ -1,0 +1,2 @@
+Installation guide:
+https://github.com/scrooloose/syntastic
